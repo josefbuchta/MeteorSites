@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MeteorSites</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="google_android_map_api_key">AIzaSyBUJmtvLHDJVAVSyk_BOVkecHC0vMOjf8g</string>
+    <string name="id">id</string>
+    <string name="name">name</string>
+    <string name="mass">mass</string>
+    <string name="year">year</string>
+    <string name="coordinates">coordinates</string>
+</resources>
